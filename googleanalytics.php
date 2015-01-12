@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: BH Google Analytics
-Plugin URI: http://birdshost.com/googleanalytics/
-Description: Enables <a href="http://www.google.com/analytics/">BH Google Analytics</a> on all pages.
+Plugin Name: Google Analytics
+Plugin URI: http://wordpress.org/extend/plugins/googleanalytics/
+Description: Enables <a href="http://www.google.com/analytics/">Google Analytics</a> on all pages.
 Version: 1.1
-Author:  Birds Host
+Author: Birdhs Host
 Author URI: http://birdshost.com/
 */
 
