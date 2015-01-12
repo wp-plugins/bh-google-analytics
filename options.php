@@ -1,5 +1,5 @@
 <div class="wrap">
-<h2>BH Google Analytics</h2>
+<h2>Google Analytics</h2>
 
 <form method="post" action="options.php">
 <?php wp_nonce_field('update-options'); ?>
