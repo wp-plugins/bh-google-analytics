@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Google Analytics
-Plugin URI: https://wordpress.org/plugins/bh-google-analytics/
+Plugin URI: http://wordpress.org/extend/plugins/googleanalytics/
 Description: Enables <a href="http://www.google.com/analytics/">Google Analytics</a> on all pages.
 Version: 1.0.5
-Author: Birdshost
-Author URI: http://birdshost.com
+Author: Kevin Sylvestre
+Author URI: http://ksylvest.com/
 */
 
 if (!defined('WP_CONTENT_URL'))
