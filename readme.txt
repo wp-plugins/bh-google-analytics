@@ -1,9 +1,9 @@
 === Google Analytics ===
-Contributors: Birdshost 
+Contributors: birdshost
 Tags: javascript, google, analytics
 Requires at least: 2.7
-Tested up to: 4.1 
-Stable tag: 1.1 
+Tested up to: 3.5
+Stable tag: 1.0.5
 
 Enables google analytics on all pages.
 
@@ -19,7 +19,7 @@ For more information visit:
 
 1. Upload `googleanalytics` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Add the web property ID from Google Analytics (UA-0000000-1) to the settings (Admin > Settings > Google Analytics)
+3. Add the web property ID from Google Analytics (UA-0000000-0) to the settings (Admin > Settings > Google Analytics)
 
 == Screenshots ==
 
