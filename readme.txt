@@ -1,5 +1,5 @@
 === Google Analytics ===
-Contributors: Birdshost 
+Contributors: Birds Host Donate link: http://plugins.birdshost.com/ask-question-2/
 Tags: javascript, google, analytics
 Requires at least: 2.7
 Tested up to: 4.1 
